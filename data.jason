@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Design initial CLI structure",
+    "due_date": "2025-07-03",
+    "assigned_to": "Khang",
+    "priority": "High",
+    "completed": true
+  },
+  {
+    "title": "Implement task addition logic",
+    "due_date": "2025-07-04",
+    "assigned_to": "Khang",
+    "priority": "High",
+    "completed": true
+  },
+  {
+    "title": "Add JSON-based task storage",
+    "due_date": "2025-07-05",
+    "assigned_to": "Quan",
+    "priority": "Medium",
+    "completed": true
+  },
+  {
+    "title": "Integrate plyer for due-date notifications",
+    "due_date": "2025-07-06",
+    "assigned_to": "Linh",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "title": "Refactor UI with colorama",
+    "due_date": "2025-07-06",
+    "assigned_to": "Khang",
+    "priority": "Medium",
+    "completed": true
+  },
+  {
+    "title": "Test cross-platform notification compatibility",
+    "due_date": "2025-07-07",
+    "assigned_to": "Nam",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "title": "Write usage documentation for README",
+    "due_date": "2025-07-08",
+    "assigned_to": "Khang",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "title": "Plan future enhancements (GUI/Web/Slack)",
+    "due_date": "2025-07-09",
+    "assigned_to": "Quan",
+    "priority": "Low",
+    "completed": false
+  }
+]
